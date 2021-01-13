@@ -1,0 +1,121 @@
+body {
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+}
+a {
+  color: #11999e;
+}
+hr{
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #EAF6F6;
+  height: 2;
+}
+h1 {
+  font-size: 90px;
+  text-align: center;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  line-height: 2; 
+  margin-bottom: 0;
+}
+h2 {
+  font-family: sans-serif;
+  color: #66bfbf;
+  height: 5%;
+}
+.bio {
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.stu {
+  text-decoration: underline;
+}
+p {
+  margin: 0px;
+}
+.myDP {
+  height: 170px;
+  border-radius: 100%;
+  margin-top: 10%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container {
+  position: relative;
+  background-color: aliceblue;
+  position: relative;
+  background-size: cover;
+}
+.cloud-1 {
+  height: 150px;
+  width: auto;
+  margin-left: 40%;
+}
+.cloud-2 {
+  height: 150px;
+  width: auto;
+  margin-right: 40%;
+}
+.bottom-container {
+  margin: 0;
+  background-color: #66BFBF;
+  text-align: center;
+  line-height: 4;
+}
+.coder{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.gamer{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  
+}
+.game-ingame{
+  clear: left;
+}
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 10px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
